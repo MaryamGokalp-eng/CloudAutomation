@@ -7,5 +7,9 @@ I am Maryam Gokalp from South America, and I specialise in system development li
 Skills: Test Plans, Cases & Process/Regression Testing/ Performance/ Testing Automation/Defect & Bug Tracking / HTML / CSS/etc...
 
 ## Skills and Experience
+
 ⚛ React
-💻 HTML, CSS,
+
+💻 HTML, 
+
+CSS,
