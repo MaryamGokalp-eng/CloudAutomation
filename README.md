@@ -35,7 +35,7 @@ Tags
 
 You can pass a custom tag using terminal. Available tags are @smoke, @regression.
 
-mvn test -Dcucumber.filter.tags="@smoke"
+mvn test -CloudAutomation.filter.tags="@smoke"
 
 Browsers
 
