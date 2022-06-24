@@ -1,5 +1,4 @@
-Feature: The application should be running
-
+Feature: The application should be runninginitial commitgit config global
   @smoke @test1
   Scenario: simple search
     Given I am on the home page

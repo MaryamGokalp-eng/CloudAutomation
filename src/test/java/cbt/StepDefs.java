@@ -13,7 +13,6 @@ import org.openqa.selenium.TakesScreenshot;
 import java.util.concurrent.TimeUnit;
 
 
-
 public class StepDefs {
 
     @Given("^I am on the home page$")
